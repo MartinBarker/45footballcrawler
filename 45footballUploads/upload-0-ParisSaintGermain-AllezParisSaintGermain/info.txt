@@ -1,0 +1,8 @@
+singleTitle:Paris Saint-Germain 
+longTitle=Allez Paris Saint-Germain 
+clubTeam=Paris Saint-Germain PSG 
+country=France 
+artist=Les Parisiens 
+label=Charles Talar Records 
+year=1982 
+info=

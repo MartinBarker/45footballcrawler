@@ -1,0 +1,8 @@
+singleTitle:FC Barcelona 
+longTitle=Visca els del Barça 
+clubTeam=FC Barcelona 
+country=Spain 
+artist=Els de la Penya 
+label=RCA S.A. 
+year=1974 
+info=Insert is a sticker with Barça-logo as part of the sleeve. B-side in honour of Johan Cruyff.
